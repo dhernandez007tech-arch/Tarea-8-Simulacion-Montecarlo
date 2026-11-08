@@ -6,9 +6,6 @@
 Puedes abrir, editar, jugar y ejecutar con las variables del notebook directamente desde cualquiera de estas plataformas:
 
 - [**Abrir en Google Colab**](https://colab.research.google.com/github/dhernandez007tech-arch/Tarea-8-Simulacion-Montecarlo/blob/main/Simulacion_Montecarlo%20%281%29.ipynb)
-- [**Ejecutar en Binder**](https://mybinder.org/v2/gh/dhernandez007tech-arch/Tarea-8-Simulacion-Montecarlo/HEAD?labpath=Simulacion_Montecarlo%20%281%29.ipynb)
-
-
 
 ## Descripción del código
 
