@@ -74,6 +74,14 @@ Los resultados dependen de los supuestos utilizados en el modelo. Entre sus prin
 - No se incluyen impuestos ni comisiones.
 - No se modelan retiros posteriores a la jubilación.
 
+## Resultados visuales
+
+**Gráfica 1 – Abanico de trayectorias**
+
+Esta gráfica muestra cómo podría evolucionar el ahorro para el retiro a lo largo del tiempo. Cada línea representa una simulación diferente y permite observar la variabilidad de los resultados.
+
+![Gráfica de abanico de trayectorias](imagenes/grafica_montecarlo.png)
+
 **Importante:** Este proyecto tiene fines académicos y educativos. No constituye una recomendación ni asesoría financiera.
 
 ---
