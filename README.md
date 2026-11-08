@@ -49,11 +49,6 @@ La simulación obtuvo los siguientes resultados:
 
 Estos resultados permiten observar la dispersión de los escenarios posibles y comparar el capital final con la meta establecida.
 
-## Archivos del proyecto
-
-- `Simulacion_Montecarlo (1).ipynb`: notebook original con explicaciones, código y visualizaciones.
-- `Simulacion_Montecarlo.py`: código fuente en Python con sus respectivos comentarios.
-
 ## Metodología
 
 El método de Monte Carlo utiliza números aleatorios para generar múltiples escenarios posibles a partir de determinadas condiciones.
