@@ -1,19 +1,17 @@
-# Simulación de Monte Carlo: Proyección de ahorro para el retiro
+# $Simulación$ $de$ $Monte$ $Carlo$: Proyección de ahorro para el retiro
 
-**Pensamiento de Ingeniería**
+**$Pensamiento$ $de$ $Ingeniería$**
 ## Edición y ejecución de la simulación
 
-Puedes abrir, editar, jugar y ejecutar con las variables del notebook directamente desde cualquiera de estas plataformas:
+Puedes abrir, editar y ejecutar las variables del notebook directamente desde el Colab:
 
 - [**Abrir en Google Colab**](https://colab.research.google.com/github/dhernandez007tech-arch/Tarea-8-Simulacion-Montecarlo/blob/main/Simulacion_Montecarlo%20%281%29.ipynb)
 
 ## Descripción del código
 
-Este proyecto implementa el método de simulación de Monte Carlo mediante Python para analizar diferentes escenarios de crecimiento de un fondo de ahorro destinado al retiro.
+Este proyecto implementa el método de simulación de Monte Carlo con Python para analizar diferentes escenarios de crecimiento de un fondo de ahorro destinado al retiro.
 
 A través de **10,000 simulaciones**, se generan posibles trayectorias del capital acumulado durante un periodo de 40 años, considerando variables como el rendimiento anual, la volatilidad del mercado, las aportaciones periódicas y la inflación.
-
-El propósito es observar cómo la incertidumbre puede influir en el resultado de una estrategia de ahorro a largo plazo.
 
 ## Objetivo
 
@@ -53,7 +51,7 @@ Estos resultados permiten observar la dispersión de los escenarios posibles y c
 
 El método de Monte Carlo utiliza números aleatorios para generar múltiples escenarios posibles a partir de determinadas condiciones.
 
-En este proyecto, cada simulación representa una trayectoria posible del ahorro durante el periodo de inversión. Al repetir el proceso 10,000 veces, se obtiene una distribución de resultados que permite estudiar distintos escenarios.
+En este Colab, cada simulación representa una trayectoria posible del ahorro durante el periodo de inversión. Al repetir el proceso 10,000 veces, se obtiene una distribución de resultados que permite estudiar distintos escenarios.
 
 ## Limitaciones
 
