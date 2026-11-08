@@ -2,7 +2,7 @@
 
 **Pensamiento de Ingeniería**
 
-## Descripción del codigo
+## Descripción del código
 
 Este proyecto implementa el método de simulación de Monte Carlo mediante Python para analizar diferentes escenarios de crecimiento de un fondo de ahorro destinado al retiro.
 
