@@ -1,9 +1,9 @@
 # Simulación de Monte Carlo: Proyección de ahorro para el retiro
 
 **Pensamiento de Ingeniería**
-## Ejecutar la simulación
+## Edición y ejecución de la simulación
 
-Puedes abrir y ejecutar el notebook directamente desde cualquiera de estas plataformas:
+Puedes abrir, editar, jugar y ejecutar con las variables del notebook directamente desde cualquiera de estas plataformas:
 
 - [**Abrir en Google Colab**](https://colab.research.google.com/github/dhernandez007tech-arch/Tarea-8-Simulacion-Montecarlo/blob/main/Simulacion_Montecarlo%20%281%29.ipynb)
 - [**Ejecutar en Binder**](https://mybinder.org/v2/gh/dhernandez007tech-arch/Tarea-8-Simulacion-Montecarlo/HEAD?labpath=Simulacion_Montecarlo%20%281%29.ipynb)
@@ -76,7 +76,7 @@ Los resultados dependen de los supuestos utilizados en el modelo. Entre sus prin
 
 ## Resultados visuales
 
-**Gráfica 1 – Abanico de trayectorias**
+**Gráfica – Abanico de trayectorias**
 
 Esta gráfica muestra cómo podría evolucionar el ahorro para el retiro a lo largo del tiempo. Cada línea representa una simulación diferente y permite observar la variabilidad de los resultados.
 
