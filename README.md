@@ -1,4 +1,4 @@
-# $Simulación$ $de$ $Monte$ $Carlo$: Proyección de ahorro para el retiro
+# $Simulación$ $de$ $Monte$ $Carlo$: $Proyección$ $de$ $ahorro$ $para$ $el$ $retiro$
 
 **$Pensamiento$ $de$ $Ingeniería$**
 ## Edición y ejecución de la simulación
@@ -75,5 +75,3 @@ Esta gráfica muestra cómo podría evolucionar el ahorro para el retiro a lo la
 **Importante:** Este proyecto tiene fines académicos y educativos. No constituye una recomendación ni asesoría financiera.
 
 ---
-
-**Proyecto desarrollado para la materia de Pensamiento de Ingeniería.**
