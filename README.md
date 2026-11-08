@@ -1,6 +1,6 @@
 # Simulación de Monte Carlo: Proyección de ahorro para el retiro
 
-**Proyecto académico | Pensamiento de Ingeniería**
+**Pensamiento de Ingeniería**
 
 ## Descripción del proyecto
 
@@ -48,15 +48,6 @@ Estos resultados permiten observar la dispersión de los escenarios posibles y c
 
 - `Simulacion_Montecarlo (1).ipynb`: notebook original con explicaciones, código y visualizaciones.
 - `Simulacion_Montecarlo.py`: código fuente en Python con sus respectivos comentarios.
-
-## Tecnologías utilizadas
-
-- Python
-- NumPy
-- Matplotlib
-- Pandas
-- Google Colab
-- Jupyter Notebook
 
 ## Metodología
 
